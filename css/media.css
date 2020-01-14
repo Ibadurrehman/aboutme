@@ -1,0 +1,384 @@
+﻿@media (max-width:1199px) and (min-width:992px) {
+    .contact-form {
+        width: 850px;
+    }
+
+    .contact-address {
+        left: -50px;
+    }
+
+    .contact-info {
+        max-width: 440px;
+    }
+
+    .service_container {
+        max-width: 980px;
+    }
+
+    .skills_laguage:before {
+        margin-left: -120px;
+    }
+
+    .work-container:after {
+        left: 60px;
+    }
+
+    .work_content {
+        width: 350px;
+        height: 370px;
+        right: 140px;
+        padding: 45% 15% 15% 15%;
+    }
+
+        .work_content:before {
+            left: 30px;
+        }
+
+    .work-title {
+        font-size: 28px;
+    }
+}
+
+@media (max-width:1024px) and (min-width:992px) {
+    .services_block {
+        padding: 30px;
+    }
+
+    .skills_laguage:before {
+        margin-left: -103px;
+    }
+
+    .work-container:after, .about-block:before, .skills-container:before {
+        font-size: 155px;
+    }
+
+    .about_container {
+        max-width: 950px;
+    }
+}
+
+@media (max-width:991px) and (min-width:768px) {
+    .contact-form {
+        width: 700px;
+        padding: 30px 30px 30px 370px;
+    }
+
+    .contact-info {
+        max-width: 300px;
+    }
+
+    .contact-address {
+        width: 360px;
+        left: -20px;
+    }
+
+    .about_content {
+        width: 650px;
+        background-position: 100%;
+    }
+
+    .about_container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .about_decriptions {
+        right: 15px;
+    }
+
+    .about-block:before {
+        font-size: 140px;
+    }
+
+    .work-container:after {
+        left: 50px;
+    }
+
+    .service_container {
+        top: 435px;
+        padding: 0 25px;
+    }
+
+    .services_block {
+        min-height: 200px;
+        margin-bottom: 30px;
+    }
+
+    .work-container {
+        min-height: 132vh;
+    }
+
+    .skills_div ul li {
+        width: 40%;
+    }
+
+    .container-100 {
+        width: 100%;
+    }
+
+    .work_content {
+        width: 310px;
+        height: 390px;
+        right: 150px;
+        padding: 45% 12% 12% 12%;
+        top: 0;
+    }
+
+        .work_content:before {
+            top: 0px;
+            left: 20px;
+            font-size: 5em;
+        }
+
+    .work-title {
+        font-size: 25px;
+    }
+
+    .work_content-1 {
+        right: 20px;
+        position: absolute;
+    }
+}
+
+@media (max-width:767px) and (min-width:320px) {
+    .logo-main {
+        margin-left: 20px;
+    }
+
+    .social_links {
+        display: none;
+    }
+
+    .social__footer__links ul li a strong {
+        display: none;
+    }
+
+    .about-block {
+        padding-top: 160px;
+    }
+
+    .about_decriptions {
+        right: 15px;
+    }
+
+    .wr_header {
+        font-size: 30px;
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .work_content {
+        width: 100%;
+        left: auto;
+        right: auto;
+        top: 0;
+        height: auto;
+        padding: 90px 30px 30px 30px;
+        float: left;
+    }
+
+        .work_content:before {
+            left: 25px;
+            font-size: 5em;
+            top: 0;
+        }
+
+    .work-title {
+        font-size: 22px;
+    }
+
+    .mob-pull {
+        float: left !important;
+    }
+
+    .mob-pull-left {
+        float: left;
+    }
+
+    .pr_block {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .emp-sign {
+        font-size: 20px;
+    }
+
+    .banner-heading {
+        font-size: 70px;
+        line-height: 60px;
+    }
+
+    .about_content {
+        width: 100%;
+        margin-top: 300px;
+        background-position: center;
+    }
+
+    .about_decriptions {
+        width: 100%;
+        height: 300px;
+        margin-top: 0;
+        right: 0;
+        top: initial;
+    }
+
+    .services_block {
+        min-height: 170px;
+        margin-bottom: 20px;
+    }
+
+    .work-container:before {
+        background-image: none;
+    }
+
+    .work-container {
+        padding-top: 160px;
+        padding-bottom: 20px;
+    }
+
+    .service_container {
+        top: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .about-block:before {
+        font-weight: 700;
+        font-size: 100px;
+        transform: rotate(0deg);
+        top: 50px;
+        margin-top: 0;
+        left: 50%;
+        margin-left: -220px;
+    }
+    .social__footer__links ul li:last-child
+    {
+        margin-right:0;
+    }
+}
+
+@media (max-width:767px) and (min-width:480px) {
+    .contact-form {
+        width: 450px;
+        padding: 30px;
+        margin-bottom: 500px;
+    }
+
+    .contact-address {
+        position: relative;
+        float: left;
+        left: 0;
+        top: 225px;
+        width: 390px;
+    }
+
+    .contact-info {
+        max-width: 390px;
+    }
+
+    .banner-heading {
+        font-size: 55px;
+    }
+
+    .work-container:after {
+        left: 50%;
+        font-size: 115px;
+        margin-left: -225px;
+    }
+
+    .work-container:before {
+        background-position: 40% -60px;
+        background-repeat: no-repeat;
+        background-size: auto;
+    }
+
+    .skills-container:before {
+        margin-left: -150px;
+        font-size: 115px;
+    }
+
+    .skills_div ul li {
+        width: 48%;
+    }
+    .skills_laguage:before 
+    {
+        margin-left:-105px;
+    }
+}
+
+@media (max-width:479px) and (min-width:320px) {
+    .contact-form {
+        width: auto;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 20px;
+        margin-bottom: 350px;
+    }
+
+    .contact-address {
+        position: relative;
+        float: left;
+        top: 205px;
+        width: 100%;
+        left: 0;
+        padding: 20px;
+        height: 350px;
+    }
+
+        .contact-address ul li:before {
+            left: -25px;
+        }
+
+        .contact-address ul {
+            padding-left: 20px;
+        }
+
+    .banner-text {
+        width: 320px;
+        margin-left: -160px;
+    }
+
+    .text_designation {
+        font-size: 32px;
+    }
+
+    .about_decriptions {
+        height: 320px;
+    }
+
+    .about_content {
+        margin-top: 320px;
+        min-height: 320px;
+    }
+
+    .work-container, .skills-container {
+        padding-top: 120px;
+    }
+
+        .work-container:after {
+            left: 50%;
+            margin-left: -145px;
+            font-size: 70px;
+        }
+
+        .skills-container:before {
+            left: 50%;
+            margin-left: -85px;
+            font-size: 70px;
+        }
+
+    .skills_div ul li {
+        width: 110%;
+    }
+    .about_container 
+    {
+        margin-top:0;
+    }
+    .about-block:before {
+    font-size: 70px;
+    margin-left: -155px;
+    top:40px;
+}
+}
